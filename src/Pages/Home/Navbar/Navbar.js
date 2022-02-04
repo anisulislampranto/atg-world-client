@@ -6,7 +6,7 @@ import './Navbar.css';
 const Navbar = () => {
     return (
         <div>
-            <nav className='navbar navbar-light bg-light'>
+            <nav className='navbar navbar-light bg-light fixed-top'>
                 <a className='navbar-brand mx-3' href="">ATG WORLD</a>
                 <div style={{width:'350px'}} class="form-group has-search">
                     <span class="fa fa-search form-control-feedback"> <FontAwesomeIcon icon={faSearch}/> </span>
