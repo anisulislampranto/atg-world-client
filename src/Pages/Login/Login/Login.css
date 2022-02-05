@@ -1,0 +1,18 @@
+.sign-up{
+    background: none;
+    align-items: center;
+    width: 100%;
+    margin-top: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+.create-account-btn{
+    margin-top: 10px;
+    width: 100%;
+    border: none;
+    padding: 10px 0px 10px 0px;
+    border-radius: 20px;
+    background-color: #4169E0;
+    color: white;
+}
