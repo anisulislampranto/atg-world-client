@@ -7,7 +7,7 @@ import './TimelineNavbar.css'
 const TimelineNavbar = () => {
     return (
         <div>
-            <nav className='navbar navbar-expand-lg navbar-light border-bottom'>
+            <nav className='navbar navbar-expand-md navbar-light border-bottom'>
                 <div class="collapse navbar-collapse">
                     <a className='nav-link text-secondary' href="">Article</a>
                     <a className='nav-link text-secondary' href="">Event</a>
